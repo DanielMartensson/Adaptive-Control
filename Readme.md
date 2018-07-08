@@ -47,7 +47,7 @@ There is the input signal. Between 0 to 30 seconds, the GPC controller learns th
 
 # Self Tuning Regulator - Minimum phase system
 
-Diagram of the STR system with minimum phase. Here I use Recursive Least Square and STR learns the system between 0 to 15 seconds, then tune the STR controller.
+Diagram of the STR system with minimum phase. Here I use Recursive Least Square and STR learning the system between 0 to 15 seconds, then tune the STR controller.
 ![](https://github.com/DanielMartensson/Classical-Adaptive-Control-/blob/master/Pictures/STR%20Minimum%20phase%20system.png)
 
 # Self Tuning Regulator - Non-Minimum phase system
@@ -80,7 +80,7 @@ Simulation of MRAC system
 Diagram of MRAC system with uning of Lyapunov rule
 ![](https://github.com/DanielMartensson/Classical-Adaptive-Control-/blob/master/Pictures/Lyapunov-Rule%20diagram%20Xcos.png)
 
-Simulation of MRAC system. According to me - Lyapunov is much better that MIT rule.
+Simulation of MRAC system. According to me - Lyapunov is much better than MIT rule.
 ![](https://github.com/DanielMartensson/Classical-Adaptive-Control-/blob/master/Pictures/Lyapunov-Rule%20simulation%20Xcos.png)
 
 # Extended Least Square
