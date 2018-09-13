@@ -1,6 +1,6 @@
 # Introduction
 
-This is a collection of the classical adaptive control methods from the book "Adaptive Control" by Karl Johan Åström and Björn Wittenmark.
+This is a collection of adaptive control methods from the book "Adaptive Control" by Karl Johan Åström and Björn Wittenmark.
 They are the masters of the classical methods for self tuning controllers. The book is made for an industrial audience and PhD students in 
 control theory. Those control methods is most used for hydraulic and electrical servo systems in space engineering and flight engineering and also in advanced control engineering problems for robotics at the industry.
 
