@@ -15,6 +15,9 @@ The book has sevral interesting control methods:
 	* Model Reference Adaptive Controller (MRAC) - For smooth reference tracking
 	* Extended Least Square (ELS) - For estimate stochastical models e.g ARMAX models
 	* Recursive Least Square (RLS) - For estimate transfer functions
+
+The book does not contain this, but I have by my self read lots of papes about subspace identification and constrained control. At the bottom of this page, I will present:
+
 	* Adaptive Constrained MPC (ERAOKIDMPC) - Using Subspace identification methods
 
 The collection is made by the open source software Scilab and Xcox 6.0.1 and the book "Adaptive Control"
