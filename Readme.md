@@ -118,4 +118,4 @@ Second order system:
 
 First order system (no change in the parameters for MPC):
 
-![](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Pictures/Adaptive%20MPC%20-%20First%20order.png?raw=true)
+![](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Pictures/Adaptive%20MPC%20-%20First%20order.png)
