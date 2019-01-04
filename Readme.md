@@ -119,3 +119,7 @@ Second order system:
 First order system (no change in the parameters for MPC):
 
 ![](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Pictures/Adaptive%20MPC%20-%20First%20order.png?raw=true)
+
+Second order with heavy time varying damping. It still tune in and follow the reference:
+
+![](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Pictures/Changing%20MPC%20model.png?raw=true)
