@@ -128,4 +128,4 @@ Second order with heavy time varying inertia.
 
 ![](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Pictures/Varying%20inertia%20MPC.png?raw=true)
 
-The weakness of this MPC controller have is when it becomes changes for the static gain, like a mechanical spring changes its stiffness or a large watertank got extra isolation to prevent e.g temperature leaks. But if the mass of the spring changes, or the density of the water changes or the viscosity of the water changes too, the Adaptive controller will handle it.  
+The weakness of this MPC controller have is when it becomes radical changes for the static gain, like a mechanical spring changes its stiffness or a large watertank got extra isolation to prevent e.g temperature leaks, or a capacitor changes its farad. But if the mass of the spring changes, or the density of the water changes or the viscosity of the water changes too, the Adaptive controller will handle it.  
