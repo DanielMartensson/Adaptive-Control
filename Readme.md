@@ -23,6 +23,10 @@ The book does not contain this, but I have by my self read lots of papes about s
 The collection is made by the open source software Scilab and Xcox 6.0.1 and the book "Adaptive Control"
 ![](https://github.com/DanielMartensson/Classical-Adaptive-Control-/blob/master/Pictures/Adaptive%20Control%20Book.png)
 
+# C code
+If you want to try adaptive control with C-code. Have a look at this. It also work for embedded systems. MATLAB-files and C-code files as examples is available:
+
+https://github.com/DanielMartensson/CControl
 
 # Linear Quadratic Regulator
 
