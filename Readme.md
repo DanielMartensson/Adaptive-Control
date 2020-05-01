@@ -28,6 +28,11 @@ If you want to try adaptive control with C-code. Have a look at this. It also wo
 
 https://github.com/DanielMartensson/CControl
 
+# Identification library
+If you want to identify models, then this library is for you - Mataveid. 
+
+https://github.com/DanielMartensson/mataveid
+
 # Linear Quadratic Regulator
 
 Diagram of the LQR system
