@@ -28,6 +28,12 @@ If you want to try adaptive control with C-code. Have a look at this. It also wo
 
 https://github.com/DanielMartensson/CControl
 
+# Unscented Kalman Filter
+
+I very good filter for you is the Unscented Kalman Filter for nonlinear and linear systems. Easy to use and easier than regular kalman filter.
+
+https://github.com/DanielMartensson/Unscented-Kalman-Filter
+
 # Identification library
 If you want to identify models, then this library is for you - Mataveid. 
 
