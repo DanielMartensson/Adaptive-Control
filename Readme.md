@@ -34,6 +34,12 @@ I very good filter for you is the Unscented Kalman Filter for nonlinear and line
 
 https://github.com/DanielMartensson/Unscented-Kalman-Filter
 
+# Square Root Uncented Kalman Filter for state estimation and parameter estimation
+
+A very good algorithm located in here.
+
+https://github.com/DanielMartensson/MataveID
+
 # Identification library
 If you want to identify models, then this library is for you - Mataveid. 
 
