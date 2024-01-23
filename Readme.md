@@ -45,6 +45,33 @@ If you want to identify models, then this library is for you - Mataveid.
 
 https://github.com/DanielMartensson/mataveid
 
+# Projects
+
+This is a automatic brewery made of an MRAS adaptive controller. The project contains two controllers. The code is made in FLProg 8.1.0 for the school students at the Institution of Applied Hydraulics 2023. 
+
+The MRAS controller gives a very high accuracy, about +- 0.1 temperature error. 
+
+The project contains:
+
+ * 1 x Arduino UNO
+ * 6 x Digital inputs
+ * 3 x Digital outputs
+ * 1 x LCD 16x4 with I2C
+ * 2 x MAX31865 PT100 transmitters
+ * 3 x SSR DC/AC relay as output for the heating element 
+
+The FLProg 8.1.0 software 
+
+![a](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Projects/MRAS/Multi%20Controller%20MRAS/Brewery/Screendump.png?raw=true)
+
+Inside of the eletronics
+
+![a](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Projects/MRAS/Multi%20Controller%20MRAS/Brewery/Inside.jpg?raw=true)
+
+Outside of the box
+
+![a](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Projects/MRAS/Multi%20Controller%20MRAS/Brewery/Outside.jpg?raw=true)
+
 # Linear Quadratic Regulator
 
 Diagram of the LQR system
