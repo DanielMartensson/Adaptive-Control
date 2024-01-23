@@ -72,6 +72,14 @@ Outside of the box. No sensors are connected right now.
 
 ![a](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Projects/MRAS/Multi%20Controller%20MRAS/Brewery/Outside.jpg?raw=true)
 
+* Ärvärde = Measurement
+* Börvärde = Setpoint/Reference
+* Räknare = Counter for ON-time at the relays
+* Värde på regulator = ON-time threshold for the regulator
+* Integral summorna (4st med väldigt små värden) = Integral sums (4 pcs with very small values)
+
+![a](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Projects/MRAS/Multi%20Controller%20MRAS/Brewery/Runtime.png?raw=true)
+
 # Linear Quadratic Regulator
 
 Diagram of the LQR system
