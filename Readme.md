@@ -68,7 +68,7 @@ Inside of the eletronics
 
 ![a](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Projects/MRAS/Multi%20Controller%20MRAS/Brewery/Inside.jpg?raw=true)
 
-Outside of the box
+Outside of the box. No sensors are connected right now.
 
 ![a](https://github.com/DanielMartensson/Adaptive-Control/blob/master/Projects/MRAS/Multi%20Controller%20MRAS/Brewery/Outside.jpg?raw=true)
 
